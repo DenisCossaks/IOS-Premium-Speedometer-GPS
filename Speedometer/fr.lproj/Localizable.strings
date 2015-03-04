@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  premiumspeedometer
+
+  Created by WooPhunMin on 11/26/13.
+  Copyright (c) 2013 suren hakobyan. All rights reserved.
+*/
+
+
+"START TIME" = "START TIME";
+"TIME ELAPSED" = " temps écoulé";
+"DISTANCE" = "DISTANCE";
+"AVG SPEED" = "AVG SPEED";
+"MAX SPEED" = "MAX SPEED";
+"ALTITUDE" = "ALTITUDE";
